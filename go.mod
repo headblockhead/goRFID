@@ -1,4 +1,4 @@
-module github.com/headblockehead/rfid
+module github.com/headblockehead/go_rfid
 
 go 1.16
 
